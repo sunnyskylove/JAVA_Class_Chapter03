@@ -10,7 +10,7 @@ public class question01 {
         int plus = num1 + num2;
         int minus = num2 - num1;
         int multi = num1 * num2;
-//        int div = num1 / num2;
+        int div = num1 / num2;
         int mod = num1 % num2;
 
         System.out.println("plus = " + plus);
