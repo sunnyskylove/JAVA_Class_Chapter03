@@ -20,7 +20,7 @@ public class Application01 {
 
         Application01 app1 = new Application01();   // new= 할당 연산자, 재사용
         app1.methodA();
-//        app1.methodB();
+//        app1.methodB();             .은 참조연산자라고 한다.
 
 
         System.out.println("main() 메소드 종료됨...");

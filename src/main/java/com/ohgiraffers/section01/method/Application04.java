@@ -18,7 +18,7 @@ public class Application04 {
 
     }
 
-    public void testMethod(String name, int age, char gender){
+    public void testMethod(String name, int age, final char gender){
 
         /* 필기.
         *   매개변수도 일종의 지역변수로 분류된다.
