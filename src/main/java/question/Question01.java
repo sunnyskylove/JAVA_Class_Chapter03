@@ -1,6 +1,6 @@
 package question;
 
-public class question01 {
+public class Question01 {
 
     public static void main(String[] args) {
 

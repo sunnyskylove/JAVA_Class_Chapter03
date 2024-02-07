@@ -1,8 +1,8 @@
 package question;
 
-public class question03 {
+public class Question03 {
     public static void main(String[] args) {
-
+//    깃허브_강사님의 실습문제
         int x =2;
         int y= 5;
         char c = 'A';

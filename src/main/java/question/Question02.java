@@ -1,10 +1,9 @@
 package question;
 
-import javax.lang.model.SourceVersion;
-
-public class question02 {
+public class Question02 {
     public static void main(String[] args) {
-        
+
+        /* 연습. 문자에서 숫자(아스키문자)로 변환*/
         char ch1 = 'a';
         int convertChartoInt = ch1;
         System.out.println("convertChartoInt = " + convertChartoInt);
