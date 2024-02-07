@@ -14,10 +14,10 @@ public class Question01 {
         int mod = num1 % num2;
 
         System.out.println("plus = " + plus);
-        System.out.println("plus = " + minus);
-        System.out.println("plus = " + multi);
-        System.out.println("plus = " + div);
-        System.out.println("plus = " + mod);
+        System.out.println("minus = " + minus);
+        System.out.println("multi = " + multi);
+        System.out.println("div = " + div);
+        System.out.println("mod = " + mod);
         //
 
         double weight = 12.5;
