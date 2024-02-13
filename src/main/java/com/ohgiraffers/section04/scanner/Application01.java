@@ -5,12 +5,10 @@ import java.util.Scanner;
 public class Application01 {
     public static void main(String[] args) {
 
-
         /* 수업목표. java.util.Scanner 를 이용한 다양한 자료형 값 받아보기. */
 
         /* 목차. 1. Scanner 객체 생성 */
         //Applicationapp = new Application();
-
         /* 목차. 1-1. 원래는 이렇게 Scanner 객체를 만들어야 한다. */
 //        java.util.Scanner sc = new Scanner(System.in);
 //       = java.util.Scanner sc = new java.util.Scanner(System.in); 이지만 좀 더 간단한 형태로..

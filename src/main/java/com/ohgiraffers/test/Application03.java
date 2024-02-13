@@ -10,7 +10,6 @@ public class Application03 {
         int result = app3.plusTwoNumbers(40,50);  // int 박스 결과 = 위의 결과값
         System.out.println("result = " + result);  // 따라서 출력해서 확인!!
 
-
     }
 
     public int plusTwoNumbers(int first, int second){
@@ -24,6 +23,5 @@ public class Application03 {
         return first - second;
 
     }
-
 
 }

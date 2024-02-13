@@ -1,4 +1,4 @@
-package com.ohgiraffers.section02.math;
+package com.ohgiraffers.section03.math;
 
 public class Application01 {
     public static void main(String[] args) {
@@ -26,9 +26,6 @@ public class Application01 {
 
         /*목차. 4. 난수 출력 */
         System.out.println("랜덤 숫자 생성기: " + Math.random());
-
-
-
 
     }
 }

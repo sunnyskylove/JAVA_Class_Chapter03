@@ -46,7 +46,6 @@ public class Application06 {
         // return 으로 인해 "안녕하세요." 값이 떠있는 상태이다.
 
 
-
     }
 
     public void testMethod2() {

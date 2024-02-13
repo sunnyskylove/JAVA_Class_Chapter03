@@ -1,4 +1,4 @@
-package com.ohgiraffers.section03.pakage_and_import;
+package com.ohgiraffers.section02.pakage_and_import;
 
 public class Application01 {
     public static void main(String[] args) {
@@ -18,8 +18,8 @@ public class Application01 {
         int min = calc.minNumberOf(30,20);
         //Calculator에 있는 최소값 구하기 (다른 클래스)
 
+        System.out.println("min = " + min);     // min= 20
 
-        System.out.println("min = " + min);
-        // min= 20
+
     }
 }

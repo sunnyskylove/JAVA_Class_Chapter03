@@ -1,4 +1,4 @@
-package com.ohgiraffers.section02.math;
+package com.ohgiraffers.section03.math;
 
 public class Application03 {
     public static void main(String[] args) {

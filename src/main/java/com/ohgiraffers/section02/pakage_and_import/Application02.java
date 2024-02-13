@@ -1,4 +1,4 @@
-package com.ohgiraffers.section03.pakage_and_import;
+package com.ohgiraffers.section02.pakage_and_import;
 
 import com.ohgiraffers.section01.method.Calculator;
 

@@ -30,18 +30,6 @@ public class Application09 {
         System.out.println(Calculator.maxNumberOf(first, second));  // 값만 출력
         System.out.println("max : " + max);                         // 변수와 함께 출력
 
-
-
-
-
-
-
-
-
-
-
     }
-
-
 
 }

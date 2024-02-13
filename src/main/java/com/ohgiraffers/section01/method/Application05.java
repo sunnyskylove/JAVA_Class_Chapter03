@@ -31,17 +31,11 @@ public class Application05 {
 
         return;
 
-//        System.out.println("test");
+//        System.out.println();  // 에러가 발생한다. return 은 메소드 가장 마지막에 작성해야 한다.
         // return;은 가장 마지막에 작성해서 나를 불렀던 쪽으로 돌아간다는 말인데
         // 아래에 다시 새로운 코드를 입력하다면, 도달할 수 없는 코드로 에러가 뜨게 된다.
         // 만약 정상적으로 다시 사용하려면 그냥 return;을 마지막에 입력을 안하면 된다.
 
-
-
-
-
     }
-
-
 
 }

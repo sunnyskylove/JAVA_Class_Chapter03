@@ -1,4 +1,4 @@
-package com.ohgiraffers.section02.math;
+package com.ohgiraffers.section03.math;
 
 import java.util.Random;
 
@@ -33,9 +33,6 @@ public class Application02 {
         /*목차. 4. -128 ~ 127까지의 난수 발생*/
         double random4 = (double)(Math.random() * 256 - 128);
         System.out.println("random4 = " + random4);
-
-
-
 
     }
 }

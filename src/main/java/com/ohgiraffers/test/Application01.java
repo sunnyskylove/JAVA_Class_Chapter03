@@ -11,25 +11,22 @@ public class Application01 {
         Application01 app1 = new Application01();
         app1.testMethod1();   // testMethod1이다~~!
 
-
         System.out.println("main 프로그램이 모든 작업을 종료합니다.");
-
     }
 
 
     public void testMethod1(){
         System.out.println("안녕 나는 testMethod1이야 불렀니?");
 
-        testMethod2();    //위에 작성하려면, app1.testMethod2(); 했지만 내부면 생략가능
-
+        testMethod2();
+        //위에 작성하려면, app1.testMethod2(); 했지만 내부면 생략가능
 
         System.out.println(testMethod3());
         // 값 자체를 출력문에 넣어서 출력을 한 상태 _String의 Method3이다~
+
         String hi = testMethod3();
         System.out.println("hi: " + hi);  // 값을 변수 공간에 담아서 출력을 한 상태
         // String hi = "안녕~ 불렀어?"_String의 Method3이다~
-
-
 
         System.out.println("나는 내 용무를 마쳤으니 돌아가볼게");
     }

@@ -2,7 +2,6 @@ package com.ohgiraffers.section01.method;
 
 public class Calculator {
 
-
     /* 필기. 두 수를 전달 받아 작은 수를 반환 */
     public int minNumberOf(int first, int second) {      // 최소값 반환식, 하기의 return에서 참/거짓으로 값찾기
 
